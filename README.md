@@ -78,18 +78,5 @@ Registration Number, Name, and Personal Interest each time).
   don't read identically.
 - Attendance <80% and internal marks <60% trigger a different tone in the parent note
   automatically.
-
-## Publishing / updating this on GitHub
-
-If you already have the repo from v1, upload these files through the GitHub website
-(no git needed):
-
-1. Go to your repo page.
-2. Click **Add file → Upload files**.
-3. Drag in `README.md`, `macro/`, `template/`, `photos/` — this will overwrite the old
-   4-slot versions with these v2 files.
-4. Scroll down, write a commit message like `Update to v2 — single slot per row`, click
-   **Commit changes**.
-
 If this is a brand new repo, create an empty one first (no README/license), then upload
 these files the same way.
