@@ -1,4 +1,4 @@
-# Gurupadigam Weekly Report Generator (v2 — single slot per row)
+# Gurupadigam Weekly Report Slot (AB)
 
 Automates the weekly Gurupadigam mentee report: one Excel row + one student photo in →
 one 2-slide PowerPoint report out (student detail slide + a personalized parent note),
